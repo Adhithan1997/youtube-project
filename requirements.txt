@@ -1,4 +1,4 @@
-pip install google-api-python-client
+google-api-python-client
 # import the packages
 from googleapiclient.discovery import build
 from pprint import pprint
