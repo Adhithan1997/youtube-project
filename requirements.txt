@@ -1,10 +1,6 @@
-# import the packages
-from googleapiclient.discovery import build
-from pprint import pprint
-import pandas as pd
-import pymongo
-import pymysql
-import re
-import streamlit as st
-from datetime import datetime
-from streamlit_option_menu import option_menu
+google-api-python-client
+pandas
+pymongo
+pymysql
+streamlit
+streamlit-option-menu
