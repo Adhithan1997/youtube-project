@@ -2,13 +2,7 @@ google-api-python-client
 pandas
 pymongo
 pymysql
-# import the packages
-
-
-import pandas as pd
-import pymongo
-import pymysql
-import re
-import streamlit as st
-from datetime import datetime
-from streamlit_option_menu import option_menu
+re
+streamlit as st
+datetime import datetime
+streamlit_option_menu import option_menu
