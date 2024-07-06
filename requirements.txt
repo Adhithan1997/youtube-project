@@ -4,7 +4,7 @@ pymongo
 pymysql
 # import the packages
 
-from pprint import pprint
+
 import pandas as pd
 import pymongo
 import pymysql
